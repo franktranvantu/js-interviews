@@ -10,3 +10,5 @@ const Person = function () {
 const Alena = new Person();
 const getKeys = Alena.getKeys;
 getKeys();
+
+// What is the output?
