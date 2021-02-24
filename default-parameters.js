@@ -5,3 +5,5 @@ function greet(name = 'Frank', timeOfDay = 'Day') {
 }
 
 greet( 'Afternoon');
+
+// What is the output?
