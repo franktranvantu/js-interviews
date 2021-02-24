@@ -14,4 +14,5 @@ breakfastPromise
   .then(message => console.log(message))
   .catch(error => console.log(error));
 
+// How many states are there in Promise? What is default?
 // What is the output?
