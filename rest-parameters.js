@@ -5,3 +5,5 @@ function myFunction(name, ...params) {
 }
 
 myFunction('Frank', 1, 2, 3, 'Hello');
+
+// What is the output?

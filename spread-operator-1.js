@@ -7,3 +7,5 @@ const newFlavors = ['Strawberry', 'Mint Chocolate Chip'];
 const inventory = ['Rocky Road', originalFlavors, 'Neopolitan', newFlavors];
 
 console.log(inventory);
+
+// What is the output?

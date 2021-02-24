@@ -6,3 +6,5 @@ function myFunction (name, iceCreamFlavor) {
 
 const args = ['Frank', 'Vanilla'];
 myFunction(args);
+
+// What is the output?
